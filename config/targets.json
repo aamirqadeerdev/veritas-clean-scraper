@@ -1,0 +1,13 @@
+
+{
+    "targets": [
+        {
+            "site_id": "huggingface_next_gen_compute",
+            "url": "https://huggingface.co/blog/ProCreations/the-mega-article",
+            "is_dynamic": true,
+            "container_tag": "main",
+            "content_classes": ["prose", "blog-content"]
+        }
+    ]
+}
+
